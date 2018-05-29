@@ -6,32 +6,13 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.maxur</groupId>
+    <groupId>org.chi</groupId>
     <artifactId>spe</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>SPE</name>
     <description>Top-level POM of Software Performance Engineering Course Source</description>
-
-    <scm>
-        <developerConnection>scm:git@github.com:myunusov/spe.git</developerConnection>
-    </scm>
-
-    <developers>
-        <developer>
-            <id>myunusov</id>
-            <name>Maxim Yunusov</name>
-            <email>myunusov@luxoft.com</email>
-            <url>http://www.maxur.org</url>
-            <organizationUrl>http://www.maxur.org/</organizationUrl>
-            <roles>
-                <role>architect</role>
-                <role>developer</role>
-            </roles>
-            <timezone>-6</timezone>
-        </developer>
-    </developers>
 
     <properties>
         <project.source.encoding>UTF-8</project.source.encoding>
