@@ -1,7 +1,7 @@
-package org.maxur.spe.infrastructure;
+package org.spe.infrastructure;
 
 import org.junit.BeforeClass;
-import org.maxur.spe.domain.Factory;
+import org.spe.domain.Factory;
 
 import java.sql.Connection;
 

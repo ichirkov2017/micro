@@ -1,7 +1,7 @@
-package org.maxur.spe.infrastructure;
+package org.spe.infrastructure;
 
 import org.apache.derby.tools.ij;
-import org.maxur.spe.domain.Factory;
+import org.spe.domain.Factory;
 import org.slf4j.Logger;
 
 import java.io.IOException;

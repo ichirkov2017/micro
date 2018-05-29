@@ -1,8 +1,8 @@
-package org.maxur.spe.infrastructure;
+package org.spe.infrastructure;
 
-import org.maxur.spe.domain.Factory;
-import org.maxur.spe.domain.Mail;
-import org.maxur.spe.domain.Repository;
+import org.spe.domain.Factory;
+import org.spe.domain.Mail;
+import org.spe.domain.Repository;
 import org.slf4j.Logger;
 
 import java.sql.Connection;

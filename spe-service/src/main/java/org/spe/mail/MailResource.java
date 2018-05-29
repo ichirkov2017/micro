@@ -1,6 +1,6 @@
-package org.maxur.spe.mail;
+package org.spe.mail;
 
-import org.maxur.spe.service.SendMailService;
+import org.spe.service.SendMailService;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;

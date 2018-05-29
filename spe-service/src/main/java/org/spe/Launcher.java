@@ -1,20 +1,17 @@
-package org.maxur.spe;
+package org.spe;
 
 import org.glassfish.grizzly.http.server.HttpServer;
 import org.glassfish.hk2.utilities.binding.AbstractBinder;
 import org.glassfish.jersey.grizzly2.httpserver.GrizzlyHttpServerFactory;
 import org.glassfish.jersey.server.ResourceConfig;
-import org.maxur.spe.service.SendMailService;
+import org.spe.service.SendMailService;
 import org.slf4j.Logger;
 
 import java.net.URI;
 
 import static org.slf4j.LoggerFactory.getLogger;
 
-/**
- * @author Maxim Yunusov
- * @version 1.0 14.09.2014
- */
+
 public class Launcher {
 
     private static Logger LOGGER = getLogger(Launcher.class);

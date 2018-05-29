@@ -1,4 +1,4 @@
-package org.maxur.spe.domain;
+package org.spe.domain;
 
 import java.util.List;
 

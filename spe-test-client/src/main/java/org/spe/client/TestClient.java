@@ -1,4 +1,4 @@
-package org.maxur.spe.client;
+package org.spe.client;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

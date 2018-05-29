@@ -1,12 +1,11 @@
-package org.maxur.spe.infrastructure;
+package org.spe.infrastructure;
 
 import com.dumbster.smtp.SimpleSmtpServer;
 import com.dumbster.smtp.SmtpMessage;
 import org.junit.Before;
 import org.junit.Test;
-import org.maxur.spe.domain.Mail;
-import org.maxur.spe.domain.MailService;
-import org.maxur.spe.infrastructure.MailServiceJavaxImpl;
+import org.spe.domain.Mail;
+import org.spe.domain.MailService;
 
 import java.util.Iterator;
 

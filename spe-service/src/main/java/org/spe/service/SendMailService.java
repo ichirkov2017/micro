@@ -1,15 +1,15 @@
-package org.maxur.spe.service;
+package org.spe.service;
 
-import org.maxur.spe.domain.Factory;
-import org.maxur.spe.domain.Mail;
-import org.maxur.spe.domain.MailIdService;
-import org.maxur.spe.domain.MailService;
-import org.maxur.spe.domain.Repository;
-import org.maxur.spe.domain.Worker;
-import org.maxur.spe.infrastructure.ConnectionFactoryJDBCImpl;
-import org.maxur.spe.infrastructure.MailIdServiceJDBCImpl;
-import org.maxur.spe.infrastructure.MailRepositoryJDBCImpl;
-import org.maxur.spe.infrastructure.MailServiceJavaxImpl;
+import org.spe.domain.Factory;
+import org.spe.domain.Mail;
+import org.spe.domain.MailIdService;
+import org.spe.domain.MailService;
+import org.spe.domain.Repository;
+import org.spe.domain.Worker;
+import org.spe.infrastructure.ConnectionFactoryJDBCImpl;
+import org.spe.infrastructure.MailIdServiceJDBCImpl;
+import org.spe.infrastructure.MailRepositoryJDBCImpl;
+import org.spe.infrastructure.MailServiceJavaxImpl;
 
 import java.sql.Connection;
 

@@ -1,4 +1,4 @@
-package org.maxur.spe.domain;
+package org.spe.domain;
 
 import static java.lang.String.format;
 

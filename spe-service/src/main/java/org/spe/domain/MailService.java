@@ -1,4 +1,4 @@
-package org.maxur.spe.domain;
+package org.spe.domain;
 
 /**
  * @author Maxim Yunusov

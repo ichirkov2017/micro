@@ -1,4 +1,4 @@
-package org.maxur.spe.infrastructure;
+package org.spe.infrastructure;
 
 import org.slf4j.Logger;
 

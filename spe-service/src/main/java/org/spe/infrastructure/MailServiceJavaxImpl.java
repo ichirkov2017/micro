@@ -1,7 +1,7 @@
-package org.maxur.spe.infrastructure;
+package org.spe.infrastructure;
 
-import org.maxur.spe.domain.Mail;
-import org.maxur.spe.domain.MailService;
+import org.spe.domain.Mail;
+import org.spe.domain.MailService;
 import org.slf4j.Logger;
 
 import javax.mail.BodyPart;
